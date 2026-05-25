@@ -30,7 +30,7 @@
   @{
 */
 
-
+uint8_t i;
 uint8_t temp;
 uint8_t txBuffer[50];
 uint8_t rxBuffer[10];
