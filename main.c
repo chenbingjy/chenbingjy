@@ -47,8 +47,6 @@ volatile uint32_t nBytesRead = 0;
   @{
 */
 
-volatile uint32_t tick = 0;
-uint8_t txBuf[] = "Key Value = :   \r\n";
 
 
 /* Private typedef -----------------------------------------------------------*/
